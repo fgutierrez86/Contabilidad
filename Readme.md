@@ -35,12 +35,21 @@ HABER = ABONAR = ACREDITAR
   *  **Saldo deudor** si el debe es mayor que el haber.
   *  **Saldo acreedor** Si el haber es mayor que el debe. 
 
-
-
-
-
-
-
-
-
-
+      <table>
+        <tr>
+            <th colspan="2">Activo + Gastos o Egresos</th>
+            <th>=</th>
+            <th colspan="2"> Pasivos + Ingresos + Patrimonio</th>
+        </tr>
+        <tr>
+            <td colspan="2">Cuentas con saldo deudor</td>
+            <td>&nbsp;</td>
+            <td colspan="2">Cuentas con saldo acreedor</td>
+        </tr>
+        <tr>
+            <td>Debe</td> <td>Haber</td><td>&nbsp;</td><td>Debe</td> <td>Haber</td>
+        </tr>
+        <tr> 
+            <td>Aumenta</td><td>Disminuye</td><td></td><td>Disminuye</td><td>Aumenta</td>
+        </tr>
+      </table>
