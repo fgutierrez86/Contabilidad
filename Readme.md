@@ -26,7 +26,7 @@ ACTIVO + GASTOS = PASIVO + CAPITAL + INGRESOS
 DEBE = DEBITAR = CARGAR
 HABER = ABONAR = ACREDITAR
 ```
-[partes de una cuenta](images/PartesDeUnaCuenta.png)
+![partes de una cuenta](images/PartesDeUnaCuenta.png)
 
 
 
