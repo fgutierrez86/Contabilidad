@@ -1,21 +1,23 @@
-### Ecuacion de la contabilidad: 
+## Ecuacion de la contabilidad 
 ```
 ACTIVO + GASTOS = PASIVO + CAPITAL + INGRESOS
 ```
-### Cuentas reales o de balance.  
-  Son aquellas que reflejan información relacionada con la situación 
-  financiera de una empresa a una determinada fecha. Son informes 
-  estáticos.
+### Cuentas reales o de balance.
+  Son aquellas que reflejan informaci&oacute;n relacionada con la 
+  situac&oacute;in financiera de una empresa a una determinada fecha. 
+  Son informes est&aacute;ticos.
 *  **Activos**
 *  **Pasivos**
-*  **Patrimonio**
+*  **Patrimonio**  
+
 ### Cuentas nominales o de resultado.  
-  Estas cuentas relfejan el movimiento económico de la empresa en un 
+  Estas cuentas relfejan el movimiento econ&oacute;mico de la empresa en un 
   determinado periodo de tiempo. El resultado que arroja un negocio puede
-  ser PERDIDA o GANANCIA, el cual se lo determina a través de los INGRESOS
-  y EGRESOS ocurrido en un determinado tiempo dado.
+  ser PERDIDA o GANANCIA, el cual se lo determina a trav&eacute;s de los
+  INGRESOS y EGRESOS ocurrido en un determinado tiempo dado.
 *  **Ingresos**
-*  **Egresos** Son los gastos.
+*  **Egresos** Son los gastos.  
+
 ### Cuentas de orden.
 
 ### Partes de una cuenta:  
@@ -27,6 +29,12 @@ DEBE = DEBITAR = CARGAR
 HABER = ABONAR = ACREDITAR
 ```
 ![partes de una cuenta](images/PartesDeUnaCuenta.png)
+## Saldos de las cuentas  
+  El saldo de una cuenta es el sobrante o residuo de la diferencia entre el debe
+  y el haber o d&eacute;bitos con Cr&eacute;ditos.
+  *  **Saldo deudor** si el debe es mayor que el haber.
+  *  **Saldo acreedor** Si el haber es mayor que el debe. 
+
 
 
 
